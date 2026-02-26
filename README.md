@@ -1,5 +1,9 @@
 # 🛡️ Accurate Cyber Defense System Architecture Diagrams
 
+<img width="524" height="611" alt="lohj" src="https://github.com/user-attachments/assets/83f56959-ac12-49e7-b7e0-8a44dc0a5a3a" />
+
+
+
 The Accurate Cyber Defense System (ACDS) is a sophisticated multi-layered security framework designed for comprehensive threat detection, network analysis, and security testing. The architecture follows defense-in-depth principles with five distinct layers working in harmony to provide complete cybersecurity coverage.
 
 # 🏗️ LAYER 1: USER INTERFACE ARCHITECTURE
