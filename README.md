@@ -65,6 +65,7 @@ Threading enables concurrent execution of long-running operations while maintain
 
 Thread safety mechanisms include thread-local storage for database connections, locks for shared resource access, and atomic operations for counters. Deadlock prevention uses consistent lock ordering and timeout-based lock acquisition. Resource cleanup occurs automatically through context managers and finally blocks.
 
+
 # 🔐 SECURITY ARCHITECTURE
 Input validation at all entry points prevents injection attacks. IP address validation ensures proper formatting before processing. URL validation prevents malformed requests. Command sanitization removes dangerous characters. SQL injection prevention uses parameterized queries exclusively.
 
@@ -72,4 +73,17 @@ Access control implements session-based authentication for CLI users and role-ba
 
 Monitoring and detection continuously analyze network traffic for anomalies. Threshold-based alerting identifies potential attacks. Automated response can block offending IPs when configured. Forensic logging preserves all security events for later analysis.
 
+## Screenshots
+
+# Screenshot 1
+<img width="620" height="880" alt="Screenshot (1375)" src="https://github.com/user-attachments/assets/36541c90-edfd-43fb-b307-d550c78542dd" />
+
+# Screenshot 2
+<img width="620" height="880" alt="Screenshot (1374)" src="https://github.com/user-attachments/assets/1cc153b6-61d3-408e-bca9-0ea88008c26b" />
+
+# Screenshot 3
+<img width="620" height="880" alt="Screenshot (1373)" src="https://github.com/user-attachments/assets/7fd03889-be1c-49b9-9b98-ea5734459798" />
+
+# Screenshot 4
+<img width="620" height="880" alt="Screenshot (1372)" src="https://github.com/user-attachments/assets/bac1e56d-9370-42fa-960a-e837c9d003cd" />
 
